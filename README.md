@@ -176,10 +176,13 @@ Grid View Fields:
 Functionalities
 
 1.Drill-Through Capability
-    - Users can drill through from other dashboards (State Analysis, Constituency Analysis, etc.) to view the detailed underlying data for a specific state or constituency.
+
+     - Users can drill through from other dashboards (State Analysis, Constituency Analysis, etc.) to view the detailed underlying data for a specific state or constituency.
 2.Data Export Option
+  
     - The grid should allow users to export the data as an Excel file for further external analysis.
 3.Show All Data Button (Using Bookmark)
+   
     - A button will be provided to refresh the grid and display all relevant data after filters are applied and drill-through actions are performed.
 
 
