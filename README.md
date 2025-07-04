@@ -161,6 +161,7 @@ Dashboard 4 Image: ![Constituency Analysis Dashboard 5](https://github.com/user-
 The Details Grid dashboard provides a comprehensive tabular view of the election results at the constituency level. It serves as a data exploration tool, allowing users to drill through from other dashboards and export election data for further analysis.
 
 Grid View Fields: 
+
     - The grid will display the following fields:
     - Constituency Name
     - Winning Candidate
@@ -173,6 +174,7 @@ Grid View Fields:
     - Margin (Vote difference between Winner & Runner-Up)
 
 Functionalities
+
 1.Drill-Through Capability
     - Users can drill through from other dashboards (State Analysis, Constituency Analysis, etc.) to view the detailed underlying data for a specific state or constituency.
 2.Data Export Option
