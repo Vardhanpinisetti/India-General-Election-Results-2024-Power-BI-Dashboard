@@ -222,7 +222,7 @@ Each button will be designed to provide quick access to the respective dashboard
 Dashboard 6 Image: ![Landing Page Dashboard 1](https://github.com/user-attachments/assets/cae65044-2b31-4801-bca1-aa0ec6c84a3a)
 
 
-### **Conclusion**##
+### **Conclusion** ##
 The India General Election Results 2024 Power BI Dashboard successfully transforms complex electoral data into a set of clear, interactive visualizations. By breaking down the results at national, state, and constituency levels, the dashboard provides valuable insights into party performances, voter behavior, and regional dynamics.
 
 Through the use of filters, drill-through functionality, and well-structured KPIs, users can analyze data from multiple perspectives—be it alliance-level overviews, party-wise dominance, or candidate-specific performance. The responsive and user-friendly design ensures accessibility for a broad audience including political analysts, journalists, policymakers, and engaged citizens.
