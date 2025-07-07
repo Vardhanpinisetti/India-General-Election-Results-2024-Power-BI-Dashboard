@@ -113,7 +113,7 @@ Dashboard 3 Image: ![Political Landscape by State Dashboard 4](https://github.co
 
 
 
-DASHBOARD 4: CONSTITUENCY ANALYSIS
+### **DASHBOARD 4: CONSTITUENCY ANALYSIS** ##
 The Constituency Analysis dashboard provides an in-depth analysis of election results for a selected constituency, allowing users to examine voter turnout, candidate performance, and seat outcomes. This dashboard helps political analysts, researchers, and citizens gain insights into the competitive landscape at the constituency level.
 
 KPI’s - Primary (Overall Election Metrics for the Selected Constituency)
